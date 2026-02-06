@@ -1,7 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 # Breadth First Search Traversal of a Graph
-# NAME: BALA M
-# REG.NO : 212224060036
+# NAME: TEJASWINI P D
+# REG.NO : 212224060278
 # AIM: 
 To Implement Breadth First Search Traversal of a Graph using Python 3. 
 
